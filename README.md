@@ -40,7 +40,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 
   ---
 
-### 5. Gasto de Parlamentares
+### 5. Gastos de Parlamentares
 - **Descrição**: Dashboard criado para acompanhar os gastos de cada parlamentar brasileiro com ementas entre 2009 e 2020
 - **Principais KPIs/Métricas**: Valor do Documento (Valor destinado a ementa).
 - **Dataset**: Dados reais disponibilizados pelo governo no site [Portas de Dados Abertos](https://dados.gov.br/dados/conjuntos-dados).
@@ -53,7 +53,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 Marcelo Augusto, Graduando em Estatística na UFMG.  
 Apaixonado por dados, buscando aprender e desenvolver minhas habilidades na análise de dados.
 
-- 🔗 [LinkedIn](www.linkedin.com/in/marcelo-augusto-germano-artur)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-augusto-germano-artur/)
 
 ## 📜 Licença
 
