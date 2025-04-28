@@ -57,7 +57,7 @@ Apaixonado por dados, buscando aprender e desenvolver minhas habilidades na aná
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [Nome da Licença].  
+Este projeto está licenciado sob a MIT License.  
 Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
