@@ -52,7 +52,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 - **Descrição**: Análise dos dados referentes a desempenho dos estudantes de escolas em Londres em determinados testes.
 - **Principais KPIs/Métricas**: Nota_Exame, Genero_Escola, Faixa_VR, Nota_LR.
 - **Dataset**: [Dados](./Exam_1.txt).
-- **Arquivo**: [Análise](./Analise_Escolas_Londres.pdf)
+- **Arquivo**: [Análise](https://drive.google.com/drive/folders/1wjGLCh0Nu4M0lsiCHy7LLsjQlcXGR-i5?usp=sharing)
 
 ---
 
