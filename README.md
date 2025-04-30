@@ -1,14 +1,14 @@
 # meus-projetos-powerbi
-Portfólio com projetos no Power BI
+Portfólio com projetos no Power BI e R
 
-# 📊 Portfólio de Projetos - Power BI
+# 📊 Portfólio de Projetos - Power BI e R
 
-Bem-vindo(a) ao meu portfólio de projetos desenvolvidos utilizando o **Power BI**!  
-Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimorar no uso do Power BI.
+Bem-vindo(a) ao meu portfólio de projetos desenvolvidos utilizando o **Power BI** e **R**!  
+Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimorar no uso do Power BI, e análises feitas usando a linguagem R.
 
 ## 📂 Projetos
 
-### 1. Relatório Comercial
+### 1. Relatório Comercial (Power BI)
 - **Descrição**: Dashboard criado para acompanhar as vendas e devoluções de produtos, e o faturamento das lojas.
 - **Principais KPIs/Métricas**: Faturamento Real (Valor produtos vendidos - Valor produtos devolvidos).
 - **Dataset**: Dados fictícios.
@@ -16,7 +16,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 
 ---
 
-### 2. Resultados Futebol
+### 2. Resultados Futebol (Power BI)
 - **Descrição**: Dashboard criado para apresentar os dados referentes ao jogos entre seleções desde 1872.
 - **Principais KPIs/Métricas**: Gols, Vitórias, Gols de pênalti, Gols contra, etc.
 - **Dataset**: Dados reais encontrados no [Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017).
@@ -24,7 +24,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 
 ---
 
-### 3. Chocolate
+### 3. Chocolate (Power BI)
 - **Descrição**: Dashboard criado para acompanhar as vendas de derivados do cacau em cada loja.
 - **Principais KPIs/Métricas**: Receita, Ticket Médio (Receita / Quantidade vendida), Representativiade de Vendas.
 - **Dataset**: Dados fictícios.
@@ -32,7 +32,7 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
   
 ---
 
-### 4. Despesas e Avaliações
+### 4. Despesas e Avaliações (Power BI)
 - **Descrição**: Dashboard criado para acompanhar as despesas salariais de cada filial de uma empresa e as avaliações dos funcionários.
 - **Principais KPIs/Métricas**: Folha Salarial, Gasto médio por funcionário, Média de Avaliação.
 - **Dataset**: Dados fictícios.
@@ -40,11 +40,19 @@ Aqui você encontrará exemplos de dashboards qua fiz para aprender e me aprimor
 
   ---
 
-### 5. Gastos de Parlamentares
+### 5. Gastos de Parlamentares (Power BI)
 - **Descrição**: Dashboard criado para acompanhar os gastos de cada parlamentar brasileiro com ementas entre 2009 e 2020
 - **Principais KPIs/Métricas**: Valor do Documento (Valor destinado a ementa).
 - **Dataset**: Dados reais disponibilizados pelo governo no site [Portas de Dados Abertos](https://dados.gov.br/dados/conjuntos-dados).
 - **Arquivo e Imagens**: [Dashboard](https://drive.google.com/drive/folders/1Qfb8cp-0EOq6kNNkxf0ySALbiMpOyZc6?usp=drive_link) 
+
+---
+
+### 6. Escolas de Londres (R)
+- **Descrição**: Análise dos dados referentes a desempenho dos estudantes de escolas em Londres em determinados testes.
+- **Principais KPIs/Métricas**: Nota_Exame, Genero_Escola, Faixa_VR, Nota_LR.
+- **Dataset**: [Dados](./Exam_1.txt).
+- **Arquivo**: [Análise](./Analise_Escolas_Londres.pdf)
 
 ---
 
